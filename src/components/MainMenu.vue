@@ -177,7 +177,7 @@ html, body {
   display: flex;
   min-height: 100vh;
   color: rgba(79, 53, 38, 1);
-  font-size: x-large;
+  font-size: large;
   background-image: url('@/assets/bg.png'); /* Path to your background image */
   background-size: cover;
   background-position: center;
